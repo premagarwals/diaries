@@ -2,16 +2,15 @@
 # My Task List
 
 ## Achievements
-- **Summer Analytics**: Now I can tell myself a data analytics officially :) *(Completed on 2024-09-02)*
+No achievements yet.
 
 ## Projects
-- **SIH'24**: Will I be able to make an example? *(2024-09-02 -> 2024-09-02)*
+- **Learn XDP/eBFD**: Have to learn this things before meeting Shehar *(~0 -> None)*
 
 ## Mottos/Desires
-- **Learn Rust**: Will I be able to do it? 
- *Wished on:* 2024-09-02 *(Status: Done)*
+- **Learn Rust**: Wanted to try this out... don't know when :_) 
+ *Wished on:* 2024-09-02 *(Status: Not Done)*
 
 ## To-Dos
-- **Hi**: Tut Done *(Due: 2024-09-02, Status: Not Done)*
-- **Solve tutorial 2 MoS**: Test incoming :( *(Due: 2024-09-02, Status: Not Done)*
+- **Try Github CI/CD completely**: Wanted to try this out for a long time :) *(Due: 2024-09-02, Status: Done)*
     
