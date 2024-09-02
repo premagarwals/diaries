@@ -13,4 +13,6 @@ No achievements yet.
 
 ## To-Dos
 - **Try Github CI/CD completely**: Wanted to try this out for a long time :) *(Due: 2024-09-02, Status: Done)*
+- **FECS Assignment**: Deadline today :) *(Due: 2024-09-02, Status: Not Done)*
+- **MoS Tut2A/2B**: Class Test incoming .... *(Due: 2024-09-02, Status: Not Done)*
     
